@@ -1,2 +1,2 @@
-# Projets-Java
-Repository contenant les projets java pour la L3 
+# Bataille de Cartes
+Réalisez une bataille de cartes épique entre deux joueurs !!!
